@@ -1,0 +1,5 @@
+{
+  "name": "資格取得シミュレーター for 大学生",
+  "description": "CBT試験を中心に、学習時間から受験日と合格証書取得日をシミュレーションするツール。MOS Excel 365対応。",
+  "requestFramePermissions": []
+}

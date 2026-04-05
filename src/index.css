@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans JP", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/95 backdrop-blur-md rounded-2xl shadow-xl border border-white/20;
+  }
+}
+
+@media print {
+  header, footer, .no-print, button {
+    display: none !important;
+  }
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: none !important;
+    background: white !important;
+  }
+  .glass-card {
+    border: 1px solid #e2e8f0 !important;
+    box-shadow: none !important;
+    background: white !important;
+    break-inside: avoid;
+    margin-bottom: 2rem;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .text-blue-600, .text-emerald-600, .text-indigo-600, .text-orange-600 {
+    color: #1e293b !important;
+  }
+  .bg-blue-50, .bg-emerald-50, .bg-indigo-50, .bg-orange-50, .bg-amber-50, .bg-slate-50 {
+    background: #f8fafc !important;
+    border: 1px solid #e2e8f0 !important;
+  }
+}
