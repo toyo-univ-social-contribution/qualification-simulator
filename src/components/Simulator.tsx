@@ -41,6 +41,24 @@ export default function Simulator() {
       }
     }
 
+    if (selectedExamKey === 'fp3' || selectedExamKey === 'fp2') {
+      const fpPauses = [
+        { start: new Date('2026-05-24T00:00:00'), end: new Date('2026-05-31T23:59:59') },
+        { start: new Date('2026-12-28T00:00:00'), end: new Date('2027-01-05T23:59:59') },
+        { start: new Date('2027-03-25T00:00:00'), end: new Date('2027-03-31T23:59:59') }
+      ];
+
+      for (const pause of fpPauses) {
+        if (examDate >= pause.start && examDate <= pause.end) {
+          examDate = new Date(pause.end);
+          examDate.setDate(examDate.getDate() + 1);
+          examDate.setHours(0, 0, 0, 0);
+          alertMsg += (alertMsg ? "\n" : "") + `※算出された受験日がきんざいCBT試験の休止期間（${pause.start.getFullYear()}年${pause.start.getMonth()+1}月${pause.start.getDate()}日〜${pause.end.getFullYear()}年${pause.end.getMonth()+1}月${pause.end.getDate()}日）と重なるため、休止期間明けの直近日を目標受験日として設定しました。`;
+          break;
+        }
+      }
+    }
+
     const m = examDate.getMonth() + 1;
     const d = examDate.getDate();
     if ((m === 12 && d >= 28) || (m === 1 && d <= 4)) {

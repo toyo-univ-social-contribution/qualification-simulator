@@ -1,0 +1,633 @@
+
+	
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T46XMB74');
+2026年度試験日程・科目・受検手数料 | 一般社団法人　金融財政事情研究会
+.keyColorBG,.keyColorBGh:hover,.keyColor_bg,.keyColor_bg_hover:hover{background-color: #e90000;}.keyColorCl,.keyColorClh:hover,.keyColor_txt,.keyColor_txt_hover:hover{color: #e90000;}.keyColorBd,.keyColorBdh:hover,.keyColor_border,.keyColor_border_hover:hover{border-color: #e90000;}.color_keyBG,.color_keyBGh:hover,.color_key_bg,.color_key_bg_hover:hover{background-color: #e90000;}.color_keyCl,.color_keyClh:hover,.color_key_txt,.color_key_txt_hover:hover{color: #e90000;}.color_keyBd,.color_keyBdh:hover,.color_key_border,.color_key_border_hover:hover{border-color: #e90000;}
+if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}
+	window._se_plugin_version = '8.1.9';
+
+
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('set', 'linker', {
+        'domains': ['kinzai-fpkentei.rktk.jp', 'kinzai.or.jp']
+    });
+    gtag('js', new Date());
+    gtag('config', 'AW-11004604474');
+ 
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K3H7CFB');
+
+
+
+
+
+
+
+
+
+/*-------------------------------------------*/
+/*	font
+/*-------------------------------------------*/
+h1,h2,h3,h4,h4,h5,h6,#header #site-title,#pageTitBnr #pageTitInner #pageTit,#content .leadTxt,#sideTower .localHead {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",sans-serif; }
+#pageTitBnr #pageTitInner #pageTit { font-weight:lighter; }
+#gMenu .menu li a strong {font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",sans-serif; }
+.box1 {
+/* 背景空色、幅いっぱい */    
+    background: #e8f4ff;
+    border: solid 2px #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 10px; /* 角を丸くする */
+}
+
+.box2 {
+/* 背景薄ピンク色、幅いっぱい */    
+    background: #ffebf9;
+    border: solid 2px #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 10px; /* 角を丸くする */
+}
+
+.box3 {
+/* 背景空色、文字幅調整 */    
+　　background: #e8f4ff;
+    border: solid 2px #ffffff;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 10px; /* 角を丸くする */
+}
+	
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11799580-1']);
+  _gaq.push(['_trackPageview']);
+    (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+	
+ご利用の Internet Exproler は古すぎます。
+このウェブサイトはあなたがご利用の Internet Explorer をサポートしていないため、正しく表示・動作しません。
+古い Internet Exproler はセキュリティーの問題があるため、新しいブラウザに移行する事が強く推奨されています。
+最新の Internet Exproler を利用するか、
+Chrome
+ や 
+Firefox
+ など、より早くて快適なブラウザをご利用ください。
+-->
+一般社団法人　金融財政事情研究会
+		
+		
+			
+				
+文字サイズ
+				
+小
+				
+中
+				
+大
+			
+			
+-->
+		
+		
+	
+MENU
+	
+メニューを飛ばす
+試験・資格
+	
+FP技能検定
+	
+金融窓口サービス技能検定
+	
+金融業務能力検定
+	
+サステナビリティ検定
+	
+DCプランナー
+	
+FP技能士カード
+	
+FP技能士センター
+定期刊行誌
+	
+週刊 金融財政事情
+	
+金融法務事情
+	
+月刊 消費者信用
+	
+KINZAI Financial Plan
+	
+月刊 登記情報
+	
+季刊 事業再生と債権管理
+書籍
+	
+新刊書籍
+セミナー・研究会
+	
+KINZAI Webアカデミー
+	
+開催セミナー
+	
+FP業務研究会
+	
+消費者信用研究会
+	
+債権管理フォーラム
+	
+融資問題研究会
+	
+金融コンプライアンス研究会
+KINZAI Next for FP
+	
+KINZAI Next （詳細頁）
+	
+KINZAI Next とは（動画）
+金融財政事情研究会について
+	
+法人概要
+	
+区分所有法制研究会
+	
+実質的支配者研究会
+
+
+
+HOME
+ &raquo; 
+FP技能検定
+ &raquo; 
+ニュース
+ &raquo; 
+2026年度試験日程・科目・受検手数料
+
+
+
+
+	
+
+	
+
+		
+
+		
+
+			
+
+
+	
+2026年度試験日程・科目・受検手数料
+		
+-->
+-->
+				
+
+			
+2025年10月1日公開
+2025年12月26日改定
+1級学科試験 紙方式
+1級実技試験 口頭試問方式
+2級3級試験 CBT（Computer-Based Testing）方式
+1級学科試験
+等級
+学科
+実技
+実技試験の選択科目
+科目コード
+試験時間
+受検手数料
+（非課税）
+1級
+学科
+ー
+F11
+基礎編　10:00～12:30
+応用編　13:30～16:00
+8,900円
+試験日　2026年5月24日（日）
+受検申請受付期間
+2026年3月9日（月）10：00～ 4月2日（木）17：30
+受検票ダウンロード開始日
+2026年4月27日（月）10：00
+合格発表日（予定）
+2026年6月30日（火）10：00
+試験日　2026年9月13日（日）
+受検申請受付期間
+2026年7月1日（水）10：00～ 7月28日（火）17：30
+受検票ダウンロード開始日
+2026年8月21日（金）10：00
+合格発表日（予定）
+2026年10月27日（火）10：00
+試験日　2027年1月24日（日）
+受検申請受付期間
+2026年10月28日（水）10：00～ 12月1日（火）17：30
+受検票ダウンロード開始日
+2026年12月24日（木）10：00
+合格発表日（予定）
+2027年3月5日（金）10：00
+&nbsp;
+1級実技試験
+等級
+学科
+実技
+実技試験の選択科目
+科目コード
+試験時間
+受検手数料
+（非課税）
+1級
+実技
+資産相談業務
+F12
+半日
+28,000円
+実施月　2026年６月上旬～中旬
+受検申請受付期間
+2026年3月23日(月)10：00～4月16日(木)17：30
+受検票
+ダウンロード開始日
+2026年5月18日(月)10：00
+試験日
+東京
+2026年6月6日（土）・7日（日）
+名古屋
+2026年6月13日（土）・14日（日）
+大阪
+2026年6月13日（土）・14日（日）
+岡山
+2026年6月6日（土）
+福岡
+2026年6月13日（土）・14日（日）
+合格発表日（予定）
+2026年7月9日(木)10：00
+実施月　2026年9月下旬～10月上旬
+受検申請受付期間
+2026年7月下旬～8月中旬
+受検票ダウンロード開始日
+2026年9月上旬
+合格発表日（予定）
+2026年10月30日(金)
+実施月　2027年2月上旬～中旬
+受検申請受付期間
+2026年11月中旬～12月中旬
+受検票ダウンロード開始日
+2027年1月中旬
+合格発表日（予定）
+2027年3月15日(月)
+&nbsp;
+2級3級試験 CBT（Computer-Based Testing）方式
+実施科目
+等級
+学科
+実技
+実技試験の選択科目
+科目コード
+試験時間
+受検手数料
+（非課税）
+2級
+学科
+ー
+F2A
+120分
+5,700円
+実技
+個人資産相談業務
+F2B
+90分
+6,000円
+中小事業主資産相談業務
+F2C
+90分
+6,000円
+生保顧客資産相談業務
+F2D
+90分
+6,000円
+損保顧客資産相談業務
+F2E
+90分
+6,000円
+3級
+学科
+ー
+F3A
+90分
+4,000円
+実技
+個人資産相談業務
+F3B
+60分
+4,000円
+保険顧客資産相談業務
+F3C
+60分
+4,000円
+受検申請・試験日・合格発表日
+等級
+受検申請
+（試験予約）
+試験日
+受検月
+合格発表日（予定）
+2級
+3級
+2026年1月1日（木）0時～
+試験日3日前
+2026年4月1日
+（水）～
+2026年4月30日
+���木）
+2026年4月
+2026年
+5月20日（水）
+2級
+3級
+2026年2月1日（日）0時～
+試験日3日前
+2026年5月1日
+（金）～
+2026年5月23日
+（土）
+2026年5月
+2026年
+6月15日（月）
+2級
+3級
+2026年3月1日（日）0時～
+試験日3日前
+2026年6月1日
+（月）～
+2026年6月30日
+（火）
+2026年6月
+2026年
+7月15日（水）
+2級
+3級
+2026年4月1日（水）0時～
+試験日3日前
+2026年7月1日
+（水）～
+2026年7月31日
+（金）
+2026年7月
+2026年
+8月18日（火）
+2級
+3級
+2026年5月1日（金）0時～
+試験日3日前
+2026年8月1日
+（土）～
+2026年8月31日
+（月）
+2026年8月
+2026年
+9月15日（火）
+2級
+3級
+2026年6月1日（月）0時～
+試験日3日前
+2026年9月1日
+（火）～
+2026年9月30日
+（水）
+2026年9月
+2026年
+10月16日（金）
+2級
+3級
+2026年7月1日（水）0時～
+試験日3日前
+2026年10月1日
+（木）～
+2026年10月31日
+（土）
+2026年10月
+2026年
+11月17日（火）
+2級
+3級
+2026年8月1日（土）0時～
+試験日3日前
+2026年11月1日
+（日）～
+2026年11月30日
+（月）
+2026年11月
+2026年
+12月15日（火）
+2級
+3級
+2026年9月1日（火）0時～
+試験日3日前
+2026年12月1日
+（火）～
+2026年12月27日
+（日）
+2026年12月
+2027年
+1月19日（火）
+2級
+3級
+2026年10月1日（木）0時～
+試験日3日前
+2027年1月6日
+（水）～
+2027年1月31日
+（日）
+2027年1月
+2027年
+2月16日（火）
+2級
+3級
+2026年11月1日（日）0時～
+試験日3日前
+2027年2月1日
+（月）～
+2027年2月28日
+（日）
+2027年2月
+2027年
+3月15日（月）
+2級
+3級
+2026年12月1日（火）0時～
+試験日3日前
+2027年3月1日
+（月）～
+2027年3月24日
+（水）
+2027年3月
+2027年
+4月15日（木）
+※　上記の日程は変更される場合があります
+			
+			
+
+							
+
+			
+
+		
+
+		
+
+		
+	
+
+
+		
+
+		
+
+
+		
+
+		
+
+			
+サイト内検索
+				
+					
+検索:
+					
+					
+				
+			
+			
+		
+ファイナンシャル･プランニング技能検定
+ニュース
+FPに関するQ&#038;A
+試験日程・科目・受検手数料
+体系
+複数指定試験機関方式
+（日本FP協会との関係）
+合格証書（技能士資格）を取得するためには
+	
+試験免除制度
+	
+学科・実技両方の免除を伴う受検申請
+受検資格
+	
+実務経験について
+個人情報の取扱いについて
+1級
+	
+1級（学科）試験要綱
+	
+1級（学科）受検会場
+	
+1級（実技）試験要綱
+	
+1級（実技）受検会場
+2級
+3級
+法令基準日
+試験問題
+模範解答
+試験結果
+合格発表
+技能士資格の表記方法について（名刺等への表記）
+合格証書の再交付・合格証明書の交付について
+年度別技能士資格取得状況
+技能検定試験制度とは
+技能検定試験問題の使用について
+受検手数料の積算根拠
+事業報告・決算書等
+		
+
+		
+
+			
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+	
+
+	
+PAGETOP
+
+	
+
+	
+
+
+	
+
+	
+
+	
+特定個人情報の適正な取扱いに関する基本方針
+特定商取引法に基づく表示
+個人情報保護に関する公表事項
+	
+
+	
+
+
+
+	
+
+	
+
+	
+
+	
+Copyright &copy; 
+一般社団法人　金融財政事情研究会
+ All Rights Reserved.
+	
+
+	
+
+	
+
+
+
+
+
+/* 
+ */
+/* 
+ */
+
+
