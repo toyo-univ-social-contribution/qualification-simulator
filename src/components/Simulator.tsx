@@ -53,7 +53,7 @@ export default function Simulator() {
           examDate = new Date(pause.end);
           examDate.setDate(examDate.getDate() + 1);
           examDate.setHours(0, 0, 0, 0);
-          alertMsg += (alertMsg ? "\n" : "") + `※算出された受験日がきんざいCBT試験の休止期間（${pause.start.getFullYear()}年${pause.start.getMonth()+1}月${pause.start.getDate()}日〜${pause.end.getFullYear()}年${pause.end.getMonth()+1}月${pause.end.getDate()}日）と重なるため、休止期間明けの直近日を目標受験日として設定しました。`;
+          alertMsg += (alertMsg ? "\n" : "") + `※算出された受験日が金融財政事情研究会CBT試験の休止期間（${pause.start.getFullYear()}年${pause.start.getMonth()+1}月${pause.start.getDate()}日〜${pause.end.getFullYear()}年${pause.end.getMonth()+1}月${pause.end.getDate()}日）と重なるため、休止期間明けの直近日を目標受験日として設定しました。`;
           break;
         }
       }

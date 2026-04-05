@@ -66,7 +66,7 @@ export default function App() {
               </div>
               <div className="flex items-start gap-2">
                 <span className="shrink-0">•</span>
-                <p>受験日や休止期間の情報：各資格の主催者公式サイト（IPA、きんざい、JDLA、オデッセイコミュニケーションズ等）の情報を参照しています。</p>
+                <p>受験日や休止期間の情報：各資格の主催者公式サイト（IPA、金融財政事情研究会、JDLA、オデッセイコミュニケーションズ等）の情報を参照しています。</p>
               </div>
               <div className="flex items-start gap-2">
                 <span className="shrink-0">•</span>
